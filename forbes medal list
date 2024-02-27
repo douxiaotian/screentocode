@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Investors List</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+
+<body class="bg-gray-100">
+    <div class="container mx-auto px-4">
+        <div class="mt-5">
+            <table class="table-auto w-full">
+                <tbody class="text-left text-gray-800">
+                    <tr class="border-b">
+                        <td class="py-2">26</td>
+                        <td>Mar Hershenson</td>
+                        <td>Pear VC</td>
+                        <td>DoorDash</td>
+                        <td>Los Altos, United States</td>
+                    </tr>
+                    <tr class="border-b">
+                        <td class="py-2">27</td>
+                        <td>Roelof Botha</td>
+                        <td>Sequoia</td>
+                        <td>Unity Software</td>
+                        <td>Menlo Park, United States</td>
+                    </tr>
+                    <!-- Repeat for each row according to the screenshot -->
+                    <tr class="border-b">
+                        <td class="py-2">39</td>
+                        <td>David Su</td>
+                        <td>Matrix Partners China</td>
+                        <td>Baidu</td>
+                        <td>Shanghai, China</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+
+</html>
